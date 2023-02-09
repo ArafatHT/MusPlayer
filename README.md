@@ -1,16 +1,3 @@
-<h1 align="center">MusPlayer</h1> 
-  
- ![Musplayer-Banner](files/banner.png) 
- <h3 align="center">Terminal based music player</h3> 
- <p align="center"> 
-     <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge"> 
-     <img src="https://img.shields.io/github/license/KasRoudra/MusPlayer?style=for-the-badge&color=blue"> 
-    <br> 
-     <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square"> 
-     <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square"> 
-     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square"> 
- </p>  
-   
  ## [~] Installation 
   
  ##### Clone this repository 
